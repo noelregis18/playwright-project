@@ -3,9 +3,6 @@
 ## **Overview:**
 
 This is a sample Automation project using Playwright and Typescript, utilizing the Playwright test runner to execute test cases. It is a Data Driven framework focused on separating test script logic from test data, allowing the creation of robust automation scripts with different sets of test data. Test data is maintained in an external Excel sheet, which the scripts connect to for data-driven execution. This approach significantly reduces the number of test scripts needed for multiple data sets compared to modular frameworks.
-
-For demonstration, UI test cases are created for [advantageonlineshopping.com](http://advantageonlineshopping.com/), and API test cases target [SOAP API](https://www.advantageonlineshopping.com/accountservice/ws/accountservice.wsdl) & [REST API](https://fakestoreapi.com) endpoints.
-
 ---
 
 ## **Project Structure**
